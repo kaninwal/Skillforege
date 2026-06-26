@@ -90,6 +90,8 @@ git push -u origin main
 ```
 
 ---
+# HOW I USE AI
+I am building an Android app called Skillforge using Kotlin, Retrofit, and Media3. I just fixed a bug where android:visibility="GONE" (uppercase) was causing a build error. Write a professional README including a tech stack, how to run it, and a section about this specific bug fix.
 
 ## 👨‍💻 Author
 **Vipin** - *Initial Work* - [YourGitHubProfile](https://github.com/YOUR_USERNAME)
